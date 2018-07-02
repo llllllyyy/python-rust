@@ -8,7 +8,7 @@ import time
 import random
 print int(random.random()*20)
 # def mon():
-#     client = pymongo.MongoClient('192.168.1.193', 27017)
+#     client = pymongo.MongoClient('', 27017)
 #     db = client.store
 #     collection = db.skunew
 #     return collection
